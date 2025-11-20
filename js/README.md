@@ -1,0 +1,1 @@
+# Lehrlingshackathon utility - JavaScript
